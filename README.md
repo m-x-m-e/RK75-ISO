@@ -1,4 +1,4 @@
-# R75 ISO Wired
+# Royal Kludge R75 ISO Wired
 
 Here my research to find the datas for the R75 ISO Wired.
 
